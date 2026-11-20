@@ -8,5 +8,4 @@ Built with Jekyll from the [AcademicPages](https://github.com/academicpages/acad
 - Top bar: `_data/navigation.yml`; sidebar and site settings: `_config.yml`
 - CV PDF: `files/AlmeidaToro_CV.pdf`; images: `images/`
 
-Interactive data pages live in their own repositories and are served under this domain, for example
-[aalmeidat.github.io/magellanic-joker-orbits](https://aalmeidat.github.io/magellanic-joker-orbits/).
+Interactive data pages live in their own repositories and are served under this domain.

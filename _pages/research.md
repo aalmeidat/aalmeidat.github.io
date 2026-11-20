@@ -6,18 +6,6 @@ author_profile: true
 
 My research asks how the Magellanic Clouds, and dwarf galaxies more generally, were assembled. I work with large spectroscopic surveys (APOGEE and SDSS-V) and *Gaia* astrometry.
 
-## Close binaries in the Magellanic Clouds
-*2026 · preliminary results · with Carles Badenes and Steven Majewski*
-
-**Question.** Does the fraction of red giants with close companions differ between the LMC and the SMC, and does it follow metallicity as it does in the Milky Way?
-
-**Approach.** A close companion shows up as a radial velocity that changes between visits, and APOGEE observed thousands of Magellanic red giants more than once. I fit the multi-epoch APOGEE DR17 velocities of 4,809 red giants with [The Joker](https://github.com/adrn/thejoker), a sampler for two-body orbits, in a hierarchical model; the fit, together with a cut on the largest velocity change, flags 271 stars as likely close binaries. Their posterior orbits, visits, and *Gaia* DR3 astrometry are on an interactive page.
-
-![Radial velocities of an SMC red giant with posterior orbit draws](/images/joker-orbit-example.png)
-*One of the 271: APOGEE (filled) and MADGICS (open) velocities of 2M01062912−7542198 in the SMC, with 30 posterior orbit draws (median period 479 days).*
-
-[Interactive orbits](/magellanic-joker-orbits/) · [How the 271 stars were selected](/magellanic-joker-orbits/#selection) · [Page source and data](https://github.com/aalmeidat/magellanic-joker-orbits)
-
 ## The stellar populations of the Small Magellanic Cloud
 *2023–present · first-author paper in SDSS-V collaboration review*
 
@@ -42,6 +30,11 @@ I presented this work in invited talks at STScI (2025, 2026) and the Flatiron In
 *The APOGEE fields: East (red), Center (blue), and West (green), on the* Gaia *DR3 red-giant density. The dotted line outlines the region of the distance bimodality; the arrow points toward the LMC. Figure 1 of Almeida et al. 2024 ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).*
 
 [MNRAS](https://doi.org/10.1093/mnras/stae373) · [arXiv:2308.13631](https://arxiv.org/abs/2308.13631)
+
+## Binary stars in the Magellanic Clouds
+*In progress*
+
+I am looking into the binary fractions of the LMC and SMC.
 
 ## Earlier work: star clusters in early-type galaxies
 *2012–2014*
