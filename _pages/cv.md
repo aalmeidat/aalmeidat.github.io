@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -7,58 +6,18 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download my CV (PDF)](/files/AlmeidaToro_CV.pdf)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Education**
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- Ph.D. in Astronomy, University of Virginia, defense expected March 2027. Advisor: Steven R. Majewski. Dissertation (working title): *Disentangling the Small Magellanic Cloud: Multiple Stellar Populations and the Imprints of Tidal Interaction with the LMC*.
+- M.Sc. in Astronomy, University of Virginia, 2023
+- M.Sc. in Physics, Universidad Andrés Bello, 2014
+- B.Sc. in Physics, Universidad de Chile, 2008
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Appointments**
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Graduate Research Assistant, University of Virginia (2025–present)
+- Operations advising and data-quality assessment, SDSS-V, University of Virginia (2021–2025)
+- Deputy Commissioning Scientist, South, SDSS-V (2020–2021)
+- APOGEE-2S operations, Las Campanas Observatory; SDSS-IV / Universidad de La Serena (2015–2021); Lead Observer from fall 2016
